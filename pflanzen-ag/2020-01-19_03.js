@@ -7,7 +7,7 @@ ev0301 = ["ev0301", "AG-Treffen: Salzwiesen", "Mittwoch, 25.03.",
          "Pflanzen-AG", "", "18:30", "", "Deichvorland (Foto: Witt)", "https://i.imgur.com/G6YVdg5.jpg"]
 
 ev0401 = ["ev0401", "AG-Treffen: Frühblüher im Bürgerpark", "Mittwoch, 29.04.",
-         "Themen: Frühblüher im Bürgerpark, Planung der Quartalsaktivitäten.",
+         "Themen: Frühblüher im Bürgerpark, Planung der Quartalsaktivitäten. Aktuelle AG-Termine unter www.nabu-bremerhaven.de/pflanzen-ag",
          "Pflanzen-AG", "", "18:30", "Bürgerpark, Parkeingang Bismarckstraße, Bremerhaven", "Krokusse (Foto: Witt)", "https://i.imgur.com/TyAKRV2.jpg"]
 
 ev0501 = ["ev0501", "AG-Treffen: Imsumer Salzwiesen & Ochsenturm", "Mittwoch, 13.05.",
