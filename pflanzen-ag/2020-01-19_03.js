@@ -1,8 +1,8 @@
-ev0201 = ["ev0201", "AG-Treffen", "Mittwoch, 26.02.",
+ev0201 = ["ev0201", "AG-Treffen: Salzwiesen", "Mittwoch, 26.02.",
          "Thema: Salzwiesen",
          "Pflanzen-AG", "", "18:30", "", "Deichvorland (Foto: Witt)", "https://i.imgur.com/G6YVdg5.jpg"]
 
-ev0301 = ["ev0301", "AG-Treffen", "Mittwoch, 25.03.",
+ev0301 = ["ev0301", "AG-Treffen: Salzwiesen", "Mittwoch, 25.03.",
          "Thema: Salzwiesen",
          "Pflanzen-AG", "", "18:30", "", "Deichvorland (Foto: Witt)", "https://i.imgur.com/G6YVdg5.jpg"]
 
