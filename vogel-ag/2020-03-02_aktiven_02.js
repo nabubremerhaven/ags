@@ -1,5 +1,5 @@
 ev0301 = ["ev0301", "AG-Treffen: Polder Bramel", "Donnerstag, 12.03.",
-         "Thema: Salzwiesen",
+         "Thema: Vogelbeobachtungen am Polder Bramel",
          "Vogel-AG", "", "17:45", "Beobachtungsturm am Polder Bramel, Schiffdorf-Bramel", "", ""]
 
 events = [ev0301]
