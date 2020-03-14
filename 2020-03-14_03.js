@@ -9,5 +9,4 @@ vogel0301 = ["vogel0301", "AG-Treffen: Polder Bramel", "Donnerstag, 12.03.",
 events = [pflanzen0301, vogel0301]
 
 for (let i of events) {
-    for (j = 0, len = i.length; j < len; j++) {
-        document.getElementById(i[0]).getElementsByTagName("p")[j].innerHTML=i[j]}
+    for (j = 0, len = i.length; j < len; j++) {document.getElementById(i[0]).getElementsByTagName("p")[j].innerHTML=i[j]}}
